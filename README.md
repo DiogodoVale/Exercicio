@@ -1,3 +1,3 @@
 Arquivo README só pra testar
 
-![Imagem]./imagem.jpg
+![Imagem]imagem.jpg
